@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266096387732",
+    "project_id": "ds-final-pam",
+    "storage_bucket": "ds-final-pam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266096387732:android:de12f5f9345cbf9cab7681",
+        "android_client_info": {
+          "package_name": "com.example.cineapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyvYXM8y6ke-HilQmyFY4ZFyQB-hTb1f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
