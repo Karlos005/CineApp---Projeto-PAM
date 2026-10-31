@@ -1,0 +1,21 @@
+# Segredos e configuração local (nunca versionar)
+.env
+.env.*
+*.jks
+*.keystore
+key.properties
+**/android/key.properties
+**/android/local.properties
+cineapp/lib/firebase_options.dart
+cineapp/android/app/google-services.json
+cineapp/firebase.json
+**/GoogleService-Info.plist
+.firebaserc
+service-account*.json
+*-firebase-adminsdk-*.json
+
+# Build / IDE
+build/
+.dart_tool/
+.idea/
+*.iml
